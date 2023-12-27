@@ -15,7 +15,7 @@ section {
 body {
   padding: 0;
   margin: 0;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 h1 {
@@ -702,7 +702,7 @@ li {
   justify-content: center;
 }
 .blog .newsletter button {
-  padding: 15px 60px;
+  padding: 15px 20px;
   border: none;
 }
 .blog .newsletter .mail_s, .blog .newsletter .relod_s {
